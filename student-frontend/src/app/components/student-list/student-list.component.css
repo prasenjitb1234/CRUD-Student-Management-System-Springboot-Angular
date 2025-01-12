@@ -1,0 +1,21 @@
+.table th {
+    font-weight: 600;
+    color: #444;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.card {
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.card-header {
+    border-bottom: 1px solid #eee;
+}
+
+.btn {
+    padding: 0.4rem 0.8rem;
+}
